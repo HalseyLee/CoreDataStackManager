@@ -1,0 +1,2 @@
+# CoreDataStackManager
+coreData
